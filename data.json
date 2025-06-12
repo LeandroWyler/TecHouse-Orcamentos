@@ -1,0 +1,188 @@
+[
+  {
+    "modelo": "IP6 S",
+    "valorTela": 100.0,
+    "maoObra": 100.0,
+    "total": 200.0
+  },
+  {
+    "modelo": "IP 7G / IP 8G",
+    "valorTela": 100.0,
+    "maoObra": 100.0,
+    "total": 200.0
+  },
+  {
+    "modelo": "IP 7P / IP 8P",
+    "valorTela": 100.0,
+    "maoObra": 100.0,
+    "total": 200.0
+  },
+  {
+    "modelo": "XR",
+    "valorTela": 120.0,
+    "maoObra": 120.0,
+    "total": 240.0
+  },
+  {
+    "modelo": "IP 11",
+    "valorTela": 110.0,
+    "maoObra": 110.0,
+    "total": 220.0
+  },
+  {
+    "modelo": "IP 11 PRO",
+    "valorTela": 150.0,
+    "maoObra": 150.0,
+    "total": 300.0
+  },
+  {
+    "modelo": "IP 12 PRO / IP 12",
+    "valorTela": 280.0,
+    "maoObra": 280.0,
+    "total": 560.0
+  },
+  {
+    "modelo": "IP 12 PRO MAX",
+    "valorTela": 320.0,
+    "maoObra": 320.0,
+    "total": 640.0
+  },
+  {
+    "modelo": "J1 20",
+    "valorTela": 70.0,
+    "maoObra": 70.0,
+    "total": 140.0
+  },
+  {
+    "modelo": "J2 60",
+    "valorTela": 75.0,
+    "maoObra": 75.0,
+    "total": 150.0
+  },
+  {
+    "modelo": "J4 PLUS",
+    "valorTela": 75.0,
+    "maoObra": 75.0,
+    "total": 150.0
+  },
+  {
+    "modelo": "A10",
+    "valorTela": 75.0,
+    "maoObra": 75.0,
+    "total": 150.0
+  },
+  {
+    "modelo": "A12",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+  {
+    "modelo": "A14 5G",
+    "valorTela": 110.0,
+    "maoObra": 110.0,
+    "total": 220.0
+  },
+  {
+    "modelo": "A22 / A32 ORIGINAL",
+    "valorTela": 170.0,
+    "maoObra": 170.0,
+    "total": 340.0
+  },
+  {
+    "modelo": "A31 / A50 ORIGINAL",
+    "valorTela": 150.0,
+    "maoObra": 150.0,
+    "total": 300.0
+  },
+  {
+    "modelo": "E6S",
+    "valorTela": 80.0,
+    "maoObra": 80.0,
+    "total": 160.0
+  },
+  {
+    "modelo": "E6 PLUS",
+    "valorTela": 80.0,
+    "maoObra": 80.0,
+    "total": 160.0
+  },
+  {
+    "modelo": "E7",
+    "valorTela": 80.0,
+    "maoObra": 80.0,
+    "total": 160.0
+  },
+  {
+    "modelo": "G5G",
+    "valorTela": 120.0,
+    "maoObra": 120.0,
+    "total": 240.0
+  },
+  {
+    "modelo": "G6 PLAY / G6 PLUS / G6",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+  {
+    "modelo": "G9 PLUS / G9 PLAY VIVID",
+    "valorTela": 95.0,
+    "maoObra": 95.0,
+    "total": 190.0
+  },
+  {
+    "modelo": "G14",
+    "valorTela": 110.0,
+    "maoObra": 110.0,
+    "total": 220.0
+  },
+  {
+    "modelo": "G23 ORIGINAL",
+    "valorTela": 200.0,
+    "maoObra": 200.0,
+    "total": 400.0
+  },
+  {
+    "modelo": "POCO M4",
+    "valorTela": 130.0,
+    "maoObra": 130.0,
+    "total": 260.0
+  },
+  {
+    "modelo": "NOTE 9",
+    "valorTela": 100.0,
+    "maoObra": 100.0,
+    "total": 200.0
+  },
+  {
+    "modelo": "NOTE 10 ORIGINAL",
+    "valorTela": 140.0,
+    "maoObra": 140.0,
+    "total": 280.0
+  },
+  {
+    "modelo": "NOTE 11 5G",
+    "valorTela": 120.0,
+    "maoObra": 120.0,
+    "total": 240.0
+  },
+  {
+    "modelo": "REDMI 12",
+    "valorTela": 100.0,
+    "maoObra": 100.0,
+    "total": 200.0
+  },
+  {
+    "modelo": "K40S",
+    "valorTela": 90.0,
+    "maoObra": 90.0,
+    "total": 180.0
+  },
+  {
+    "modelo": "K51S",
+    "valorTela": 90.0,
+    "maoObra": 90.0,
+    "total": 180.0
+  }
+]
