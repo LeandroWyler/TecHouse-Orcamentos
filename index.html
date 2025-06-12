@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TecHouse Orçamentos</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="manifest" href="manifest.json" />
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <div class="app-container">
+    <h1>TecHouse Orçamentos</h1>
+    <input type="text" id="modeloInput" placeholder="Digite o modelo do aparelho" />
+    <button onclick="buscarModelo()">Buscar</button>
+    <div id="resultado" class="resultado hidden">
+      <p><strong>Valor da Tela:</strong> R$ <span id="valorTela"></span></p>
+      <p><strong>Mão de Obra:</strong> R$ <span id="maoObra"></span></p>
+      <p><strong>Total:</strong> R$ <span id="total"></span></p>
+    </div>
+  </div>
+</body>
+</html>
