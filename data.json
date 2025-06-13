@@ -48,7 +48,7 @@
     "total": 640.0
   },
   {
-    "modelo": "SAMSUNG \nJ1 20",
+    "modelo": "J1",
     "valorTela": 70.0,
     "maoObra": 70.0,
     "total": 140.0
@@ -94,12 +94,6 @@
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
-  },
-  {
-    "modelo": "OLED",
-    "valorTela": 150.0,
-    "maoObra": 150.0,
-    "total": 300.0
   },
   {
     "modelo": "J7 PRIME BRANCO/PRETO",
@@ -510,19 +504,49 @@
     "total": 150.0
   },
   {
-    "modelo": "G6 PLAY/ G6 PLUS/ G6",
+    "modelo": "G6",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "G7/ G7 PLUS/ G7 POWER/ G7 PLAY",
+    "modelo": "G7",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "G8 POWER LITE/ G8 POWER/ G8 PLAY/ G8",
+    "modelo": "G7 PLUS",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+   {
+    "modelo": "G7 POWER",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+   {
+    "modelo": "G7 PLAY",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+  {
+    "modelo": "G8 POWER LITE",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+   {
+    "modelo": "G8 PLAY/ G8",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+    {
+    "modelo": "G8",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
