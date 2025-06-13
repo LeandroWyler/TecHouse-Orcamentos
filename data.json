@@ -96,7 +96,7 @@
     "total": 170.0
   },
   {
-    "modelo": "J7 PRIME BRANCO/PRETO",
+    "modelo": "J7 PRIME",
     "valorTela": 75.0,
     "maoObra": 75.0,
     "total": 150.0
@@ -228,13 +228,19 @@
     "total": 340.0
   },
   {
-    "modelo": "A31 / A50 ORIGINAL",
+    "modelo": "A31",
     "valorTela": 150.0,
     "maoObra": 150.0,
     "total": 300.0
   },
   {
-    "modelo": "COM ARO  \nA02 / A02S",
+    "modelo": "A02",
+    "valorTela": 95.0,
+    "maoObra": 95.0,
+    "total": 190.0
+  },
+   {
+    "modelo": "A02s",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -414,7 +420,7 @@
     "total": 190.0
   },
   {
-    "modelo": "MOTOROLA \n \nE6S",
+    "modelo": "E6S",
     "valorTela": 80.0,
     "maoObra": 80.0,
     "total": 160.0
@@ -423,7 +429,7 @@
     "modelo": "E6 PLAY",
     "valorTela": 80.0,
     "maoObra": 80.0,
-    "total": 160.0
+    "total": 160.0 
   },
   {
     "modelo": "E6 PLUS",
@@ -540,7 +546,7 @@
     "total": 170.0
   },
    {
-    "modelo": "G8 PLAY/ G8",
+    "modelo": "G8 PLAY",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
@@ -552,7 +558,13 @@
     "total": 170.0
   },
   {
-    "modelo": "G9 PLUS/ G9 PLAY VIVID",
+    "modelo": "G9 PLUS",
+    "valorTela": 95.0,
+    "maoObra": 95.0,
+    "total": 190.0
+  },
+    {
+    "modelo": "G9 PLAY VIVID",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -571,6 +583,18 @@
   },
   {
     "modelo": "G20/ G22/ G23",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+   {
+    "modelo": "G22",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 170.0
+  },
+   {
+    "modelo": "G23",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
