@@ -1,18 +1,18 @@
 [
   {
-    "modelo": "IPHONE \n \nIP6 S",
+    "modelo": "IP6S",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
   },
   {
-    "modelo": "IP 7G / IP 8G",
+    "modelo": "IP 7G",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
   },
   {
-    "modelo": "IP 7P / IP 8P",
+    "modelo": "IP 7P",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
@@ -36,7 +36,7 @@
     "total": 300.0
   },
   {
-    "modelo": "IP 12 PRO / IP 12",
+    "modelo": "IP 12 PRO",
     "valorTela": 280.0,
     "maoObra": 280.0,
     "total": 560.0
@@ -48,13 +48,13 @@
     "total": 640.0
   },
   {
-    "modelo": "SAMSUNG \nJ1 20",
+    "modelo": "J1",
     "valorTela": 70.0,
     "maoObra": 70.0,
     "total": 140.0
   },
   {
-    "modelo": "J2 60",
+    "modelo": "J2",
     "valorTela": 75.0,
     "maoObra": 75.0,
     "total": 150.0
@@ -84,25 +84,19 @@
     "total": 150.0
   },
   {
-    "modelo": "J7 01",
+    "modelo": "J7",
     "valorTela": 70.0,
     "maoObra": 70.0,
     "total": 140.0
   },
   {
-    "modelo": "J7 10",
+    "modelo": "J7 plus",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "OLED",
-    "valorTela": 150.0,
-    "maoObra": 150.0,
-    "total": 300.0
-  },
-  {
-    "modelo": "J7 PRIME BRANCO/PRETO",
+    "modelo": "J7 PRIME",
     "valorTela": 75.0,
     "maoObra": 75.0,
     "total": 150.0
@@ -209,6 +203,12 @@
     "maoObra": 75.0,
     "total": 150.0
   },
+    {
+    "modelo": "A30S",
+    "valorTela": 85.0,
+    "maoObra": 85.0,
+    "total": 180.0
+  },
   {
     "modelo": "A21S",
     "valorTela": 80.0,
@@ -222,25 +222,25 @@
     "total": 160.0
   },
   {
-    "modelo": "A22 5G",
+    "modelo": "A22",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
   },
   {
-    "modelo": "A22/ A32 ORIGINAL",
+    "modelo": "A22ORIGINAL",
     "valorTela": 170.0,
     "maoObra": 170.0,
     "total": 340.0
   },
   {
-    "modelo": "A31 / A50 ORIGINAL",
+    "modelo": "A31ORIGINAL",
     "valorTela": 150.0,
     "maoObra": 150.0,
     "total": 300.0
   },
   {
-    "modelo": "COM ARO  \nA02 / A02S",
+    "modelo": "A02",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -264,70 +264,16 @@
     "total": 180.0
   },
   {
-    "modelo": "A10",
+    "modelo": "A20",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
-  },
-  {
-    "modelo": "A10s",
-    "valorTela": 85.0,
-    "maoObra": 85.0,
-    "total": 170.0
-  },
-  {
-    "modelo": "A11",
-    "valorTela": 95.0,
-    "maoObra": 95.0,
-    "total": 190.0
-  },
-  {
-    "modelo": "A12",
-    "valorTela": 90.0,
-    "maoObra": 90.0,
-    "total": 180.0
-  },
-  {
-    "modelo": "A13",
-    "valorTela": 90.0,
-    "maoObra": 90.0,
-    "total": 180.0
-  },
-  {
-    "modelo": "00 \nA20",
-    "valorTela": 85.0,
-    "maoObra": 85.0,
-    "total": 170.0
-  },
-  {
-    "modelo": "A20S",
-    "valorTela": 90.0,
-    "maoObra": 90.0,
-    "total": 180.0
-  },
-  {
-    "modelo": "A21S",
-    "valorTela": 95.0,
-    "maoObra": 95.0,
-    "total": 190.0
-  },
-  {
-    "modelo": "A22 5G",
-    "valorTela": 100.0,
-    "maoObra": 100.0,
-    "total": 200.0
   },
   {
     "modelo": "A23",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
-  },
-  {
-    "modelo": "00",
-    "valorTela": 90.0,
-    "maoObra": 90.0,
-    "total": 180.0
   },
   {
     "modelo": "A30S",
@@ -420,7 +366,7 @@
     "total": 190.0
   },
   {
-    "modelo": "MOTOROLA \n \nE6S",
+    "modelo": "E6S",
     "valorTela": 80.0,
     "maoObra": 80.0,
     "total": 160.0
@@ -510,25 +456,25 @@
     "total": 150.0
   },
   {
-    "modelo": "G6 PLAY/ G6 PLUS/ G6",
+    "modelo": "G6",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "G7/ G7 PLUS/ G7 POWER/ G7 PLAY",
+    "modelo": "G7",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "G8 POWER LITE/ G8 POWER/ G8 PLAY/ G8",
+    "modelo": "G8",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
   },
   {
-    "modelo": "G9 PLUS/ G9 PLAY VIVID",
+    "modelo": "G9",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -546,7 +492,7 @@
     "total": 220.0
   },
   {
-    "modelo": "G20/ G22/ G23",
+    "modelo": "G20",
     "valorTela": 85.0,
     "maoObra": 85.0,
     "total": 170.0
@@ -576,7 +522,7 @@
     "total": 210.0
   },
   {
-    "modelo": "G60 / G60S",
+    "modelo": "G60",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -588,13 +534,13 @@
     "total": 170.0
   },
   {
-    "modelo": "COM ARO \n \nE6S / E6i",
+    "modelo": "E6S",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
   },
   {
-    "modelo": "E7 POWER/ E7",
+    "modelo": "E7",
     "valorTela": 95.0,
     "maoObra": 95.0,
     "total": 190.0
@@ -876,19 +822,19 @@
     "total": 180.0
   },
   {
-    "modelo": "00 \n\nCONECTORES SAMSUNG/ MOTOROLA/ XAOMI/LG",
-    "valorTela": 20.0,
-    "maoObra": 20.0,
-    "total": 40.0
+    "modelo": "CONECTOR ANDROID",
+    "valorTela": 25.0,
+    "maoObra": 65.0,
+    "total": 90.0
   },
   {
     "modelo": "CONECTORES IPHONE",
     "valorTela": 45.0,
     "maoObra": 45.0,
-    "total": 90.0
+    "total": 140.0
   },
   {
-    "modelo": "00 \nSUB FLEX",
+    "modelo": "SUB FLEX",
     "valorTela": 20.0,
     "maoObra": 20.0,
     "total": 40.0
@@ -897,24 +843,12 @@
     "modelo": "FLEX POWER",
     "valorTela": 15.0,
     "maoObra": 15.0,
-    "total": 30.0
+    "total": 60.0
   },
   {
-    "modelo": "BATERIAS SAMSUNG/ MOTOROLA/ LG/ XAOMI",
+    "modelo": "BATERIAS ANDROID",
     "valorTela": 50.0,
     "maoObra": 50.0,
     "total": 100.0
   },
-  {
-    "modelo": "",
-    "valorTela": 75.0,
-    "maoObra": 75.0,
-    "total": 150.0
-  },
-  {
-    "modelo": "IP12 OU 12 PRO",
-    "valorTela": 100.0,
-    "maoObra": 100.0,
-    "total": 200.0
-  }
 ]
