@@ -12,7 +12,7 @@
     "total": 200.0
   },
   {
-    "modelo": "IP 7P / IP 8P",
+    "modelo": "IP7P",
     "valorTela": 100.0,
     "maoObra": 100.0,
     "total": 200.0
@@ -36,7 +36,13 @@
     "total": 300.0
   },
   {
-    "modelo": "IP 12 PRO / IP 12",
+    "modelo": "IP 12",
+    "valorTela": 280.0,
+    "maoObra": 280.0,
+    "total": 560.0
+  },
+   {
+    "modelo": "IP 12 PRO",
     "valorTela": 280.0,
     "maoObra": 280.0,
     "total": 560.0
@@ -1026,8 +1032,9 @@
     "total": 30.0
   },
   {
-    "modelo": "BATERIAS SAMSUNG/ MOTOROLA/ LG/ XAOMI",
+    "modelo": "BATERIAS ANDROID",
     "valorTela": 50.0,
     "maoObra": 50.0,
     "total": 100.0
   },
+]
